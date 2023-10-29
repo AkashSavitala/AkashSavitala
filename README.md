@@ -8,6 +8,7 @@
 
 - <b>AI Chat</b>
   - <p><b>Summary: </b>Developed an innovative widget that provides voice calls with professionals and AI Chatbot interactions by integrating a tech stack and the Hugging Face API for an interactive user interface and backend construction.</p>
+  - [Github Repository](https://github.com/AkashSavitala/AI_Chat_Widget.git)
 - <b>LoLa-LoLa (Low Ability and Low Availability)</b>
   - <p><b>Summary: </b>Project LoLa-LoLa addresses NASA’s Wildfire Management Challenge to provide Hazard warnings at the ‘Edge’ where communications networks are sparse or non-existent by sending wildfire notifications/voicemails to users using NASA FIRMS data.</p>
   - [Github Repository](https://github.com/vigneshSrinivasan2005/LoLa-LoLa)
