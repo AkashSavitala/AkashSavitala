@@ -1,6 +1,6 @@
 <h1>Hi, I'm Akash Savitala!</h1>
 
-<h2>Summary</h2>
+<h2>Background</h2>
 
 <p>Result-oriented Electrial and Computer Engineering Major with 4+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
 
