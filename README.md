@@ -22,7 +22,6 @@
     <b>FireSense</b>
     <p><b>Summary: </b>A scalable-drone system that can be utilized to create a unified swarm, working together to accurately detect and alert authorities of wildfire risks.</p>
     <a href="https://github.com/Team-FireSense/FireSense.git">Github Repository</a>
-    <a href="https://docs.google.com/document/d/1tQ_4BB9be-DbQttiOq7NC0D3Umjxn4ryi3X08fWcksY/edit?usp=sharing">Final Report</a>
     <a href="https://drive.google.com/file/d/1HqHJ9GnEU8__ma1Cpz-msDWh1flKPv3y/view?usp=sharing">Demo</a>
   </li>
 </ul>
