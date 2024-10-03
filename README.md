@@ -4,7 +4,7 @@
 
 <p>Result-oriented Electrial and Computer Engineering Major with 4+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>AI Chat</b>
   - <p><b>Summary: </b>An innovative widget that provides voice calls with professionals and AI Chatbot interactions by integrating a tech stack and the Hugging Face API for an interactive user interface and backend construction.</p>
@@ -17,6 +17,29 @@
   - [Github Repository](https://github.com/Team-FireSense/FireSense.git)
   - [Final Report](https://docs.google.com/document/d/1tQ_4BB9be-DbQttiOq7NC0D3Umjxn4ryi3X08fWcksY/edit?usp=sharing)
   - [Demo](https://drive.google.com/file/d/1HqHJ9GnEU8__ma1Cpz-msDWh1flKPv3y/view?usp=sharing)
+
+<h2>Projects:</h2>
+<ul>
+  <li>
+    <b>AI Chat</b>
+    <p><b>Summary: </b>An innovative widget that provides voice calls with professionals and AI Chatbot interactions by integrating a tech stack and the Hugging Face API for an interactive user interface and backend construction.</p>
+    <a href="insert link">Github Repository</a>
+  </li>
+  
+  <li>
+    <b>LoLa-LoLa (Low Ability and Low Availability)</b>
+    <p><b>Summary: </b>Project LoLa-LoLa addresses NASA’s Wildfire Management Challenge to provide Hazard warnings at the ‘Edge’ where communications networks are sparse or non-existent by sending wildfire notifications/voicemails to users using NASA FIRMS data.</p>
+    <a href="insert link">Github Repository</a>
+  </li>
+  
+  <li>
+    <b>FireSense</b>
+    <p><b>Summary: </b>A scalable-drone system that can be utilized to create a unified swarm, working together to accurately detect and alert authorities of wildfire risks.</p>
+    <a href="insert link">Github Repository</a>
+    <a href="insert link">Final Report</a>
+    <a href="insert link">Demo</a>
+  </li>
+</ul>
  
 <h2>Research:</h2>
 <ul>
