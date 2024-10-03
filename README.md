@@ -19,13 +19,12 @@
   - [Demo](https://drive.google.com/file/d/1HqHJ9GnEU8__ma1Cpz-msDWh1flKPv3y/view?usp=sharing)
  
 <h2>Research:</h2>
-
-- <b>Research on 5G Technology with the City of Seattle</b>
-  - <p><b>Summary: </b>Conducted research that demonstrates the advantages and disadvantages of 5G, its improvement/evolution from its predecessors, and its practical and sustainable applications in urbanized cities like Seattle.</p>
-  - [Research Paper](https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view)
 - <b>Quantum-Enhanced Speech Recognition in Noisy Environments</b>
   - <p><b>Summary: </b>Analyzed the use of quantum machine learning algorithms to enhance the accuracy of speech recognition systems in noisy environments, addressing the limitations of traditional methods and improving user interactions with voice-activated devices.</p>
   - [Research Paper](https://drive.google.com/file/d/1p3BlkTNfPFZRwaQJ72R1KURLt_6C6ADh/view?usp=sharing)
+- <b>Research on 5G Technology with the City of Seattle</b>
+  - <p><b>Summary: </b>Conducted research that demonstrates the advantages and disadvantages of 5G, its improvement/evolution from its predecessors, and its practical and sustainable applications in urbanized cities like Seattle.</p>
+  - [Research Paper](https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view)
 
 <h2> 🤳 Connect With Me:</h2>
 
