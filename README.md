@@ -4,7 +4,7 @@
 
 <p>Result-oriented Electrial and Computer Engineering Major with 4+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>AI Chat</b>
   - <p><b>Summary: </b>An innovative widget that provides voice calls with professionals and AI Chatbot interactions by integrating a tech stack and the Hugging Face API for an interactive user interface and backend construction.</p>
@@ -18,11 +18,14 @@
   - [Final Report](https://docs.google.com/document/d/1tQ_4BB9be-DbQttiOq7NC0D3Umjxn4ryi3X08fWcksY/edit?usp=sharing)
   - [Demo](https://drive.google.com/file/d/1HqHJ9GnEU8__ma1Cpz-msDWh1flKPv3y/view?usp=sharing)
  
-<h2>Research Experiences</h2>
+<h2>Research:</h2>
 
 - <b>Research on 5G Technology with the City of Seattle</b>
   - <p><b>Summary: </b>Conducted research that demonstrates the advantages and disadvantages of 5G, its improvement/evolution from its predecessors, and its practical and sustainable applications in urbanized cities like Seattle.</p>
   - [Research Paper](https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view)
+- <b>Quantum-Enhanced Speech Recognition in Noisy Environments</b>
+  - <p><b>Summary: </b>Analyzed the use of quantum machine learning algorithms to enhance the accuracy of speech recognition systems in noisy environments, addressing the limitations of traditional methods and improving user interactions with voice-activated devices.</p>
+  - [Research Paper](https://drive.google.com/file/d/1p3BlkTNfPFZRwaQJ72R1KURLt_6C6ADh/view?usp=sharing)
 
 <h2> 🤳 Connect With Me:</h2>
 
