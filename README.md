@@ -2,7 +2,7 @@
 
 <h2>Background:</h2>
 
-<p>Result-oriented Electrial and Computer Engineering Major with 4+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
+<p>Electrial and Computer Engineering Major with 3+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
 
 <h2>Projects:</h2>
 <ul>
