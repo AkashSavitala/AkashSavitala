@@ -34,7 +34,7 @@
   </li>
   
   <li>
-    <b>Research on 5G Technology with the City of Seattle</b>
+    <b>Research on 5G Technology - City of Seattle</b>
     <p><b>Summary: </b>Conducted research that demonstrates the advantages and disadvantages of 5G, its improvement/evolution from its predecessors, and its practical and sustainable applications in urbanized cities like Seattle.</p>
     <a href="https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view">Research Paper</a>
   </li>
