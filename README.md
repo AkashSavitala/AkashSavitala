@@ -34,7 +34,7 @@
 <ul>
   <li>
     <b>Kinetic Inductance Phonon-Mediated (KIPM) Detector Characterization at Cryogenic Temperatures</b>
-    <p><b>Summary: </b>I built a Python-based analysis pipeline that ingests raw instrument data, cleans and normalizes it, fits an automated model to extract key metrics, and generates calibrated plots — turning cryogenic detector measurements (KIPM) into reproducible, power-vs-response insights.</p>
+    <p><b>Summary: </b>Built a Python-based analysis pipeline that ingests raw instrument data of vector network analyzer (VNA) frequency sweeps, cleans and normalizes it, fits a nonlinear least-squares model to extract key metrics, and generates calibrated plots — turning cryogenic detector measurements into reproducible, power-vs-response insights.</p>
     <a href="https://drive.google.com/file/d/1bKmXMlc17DqmIBNQYlRCZeRAmJMKNmUf/view?usp=sharing">Research Paper</a>
   </li>
   
