@@ -2,7 +2,7 @@
 
 <h2>Background:</h2>
 
-<p>Electrial and Computer Engineering Major with 3+ years of experience in web development, data manipulation, and autonomous navigation with a passion for leveraging technology to drive innovation through in-depth research. Actively seeking opportunities to employ these skills in a professional setting. </p>
+<p>Electrical and Computer Engineering major with 3+ years of experience spanning software engineering, applied machine learning, and research. Worked on detector and image analysis projects at national laboratories, developed analytics and reliability features in production environments, and built end-to-end applications ranging from AI-powered web platforms to autonomous systems. Passionate about creating practical, research-driven solutions that bridge ML and engineering.</p>
 
 <h2>Projects:</h2>
 <ul>
@@ -32,6 +32,12 @@
  
 <h2>Research:</h2>
 <ul>
+  <li>
+    <b>Kinetic Inductance Phonon-Mediated (KIPM) Detector Characterization at Cryogenic Temperatures</b>
+    <p><b>Summary: </b>I built a Python-based analysis pipeline that ingests raw instrument data, cleans and normalizes it, fits an automated model to extract key metrics, and generates calibrated plots — turning cryogenic detector measurements (KIPM) into reproducible, power-vs-response insights.</p>
+    <a href="https://drive.google.com/file/d/1bKmXMlc17DqmIBNQYlRCZeRAmJMKNmUf/view?usp=sharing">Research Paper</a>
+  </li>
+  
   <li>
     <b>Quantum-Enhanced Speech Recognition in Noisy Environments</b>
     <p><b>Summary: </b>Analyzed the use of quantum machine learning algorithms to enhance the accuracy of speech recognition systems in noisy environments, addressing the limitations of traditional methods and improving user interactions with voice-activated devices.</p>
