@@ -7,21 +7,27 @@
 <h2>Projects:</h2>
 <ul>
   <li>
-    <b>AI Chat</b>
-    <p><b>Summary: </b>An innovative widget that provides voice calls with professionals and AI Chatbot interactions by integrating a tech stack and the Hugging Face API for an interactive user interface and backend construction.</p>
-    <a href="https://github.com/AkashSavitala/AI_Chat_Widget.git">Github Repository</a>
+    <b>Quick Find</b>
+    <p><b>Summary: </b>Full-stack MERN web app that integrates OpenAI and the eBay API to power AI-driven shopping recommendations, with a serverless Firebase backend for authentication and data storage.</p>
+    <a href="https://github.com/AkashSavitala/QuickFind.git">Github Repository</a>
+  </li>
+
+  <li>
+    <b>Eat Together</b>
+    <p><b>Summary: </b> Mobile React Native app (built with Expo) that connects users through interactive prompts, supported by a real-time Firebase backend for user data and session management.</p>
+    <a href="">Github Repository</a>
+  </li>
+
+  <li>
+    <b>Fire Sense</b>
+    <p><b>Summary: </b>Python-based autonomous drone system simulated in Gazebo, using TensorFlow and OpenCV for computer vision and neural-network-based fire detection.</p>
+    <a href="https://github.com/Team-FireSense/FireSense.git">Github Repository</a>
   </li>
   
   <li>
     <b>LoLa-LoLa (Low Ability and Low Availability)</b>
     <p><b>Summary: </b>Project LoLa-LoLa addresses NASA’s Wildfire Management Challenge to provide Hazard warnings at the ‘Edge’ where communications networks are sparse or non-existent by sending wildfire notifications/voicemails to users using NASA FIRMS data.</p>
-    <a href="https://github.com/vigneshSrinivasan2005/LoLa-LoLa">Github Repository</a>
-  </li>
-  
-  <li>
-    <b>FireSense</b>
-    <p><b>Summary: </b>A scalable-drone system that can be utilized to create a unified swarm, working together to accurately detect and alert authorities of wildfire risks.</p>
-    <a href="https://github.com/Team-FireSense/FireSense.git">Github Repository</a>
+    <a href="https://github.com/vigneshSrinivasan2005/LoLa-LoLa.git">Github Repository</a>
   </li>
 </ul>
  
