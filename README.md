@@ -15,7 +15,6 @@
   <li>
     <b>Eat Together</b>
     <p><b>Summary: </b> Mobile React Native app (built with Expo) that connects users through interactive prompts, supported by a real-time Firebase backend for user data and session management.</p>
-    <a href="">Github Repository</a>
   </li>
 
   <li>
