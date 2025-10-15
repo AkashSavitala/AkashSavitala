@@ -40,7 +40,7 @@
   
   <li>
     <b>Quantum-Enhanced Speech Recognition in Noisy Environments</b>
-    <p><b>Summary: </b>Analyzed the use of quantum machine learning algorithms to enhance the accuracy of speech recognition systems in noisy environments, addressing the limitations of traditional methods and improving user interactions with voice-activated devices.</p>
+    <p><b>Summary: </b>Designed and analyzed a quantum machine learning model to improve speech recognition accuracy under noisy conditions by leveraging quantum noise filtering and pattern recognition. Compared performance with traditional deep learning methods (CNNs, LSTMs) to show stronger noise reduction and better recognition reliability, demonstrating how quantum algorithms can optimize real-world voice-activated systems for accessibility and user experience.</p>
     <a href="https://drive.google.com/file/d/1p3BlkTNfPFZRwaQJ72R1KURLt_6C6ADh/view?usp=sharing">Research Paper</a>
   </li>
   
