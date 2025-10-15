@@ -46,7 +46,7 @@
   </li>
   
   <li>
-    <b>5G Research Paper – City of Seattle Implementation Plan</b>
+    <b>5G Research Paper – Seattle Information Technology Implementation Plan</b>
     <p><b>Summary: </b>Analyzed the technical, social, and policy impacts of 5G deployment with a focus on improving public safety, digital equity, and healthcare in urban areas. Proposed AT&T FirstNet integration for emergency services, telehealth expansion for underserved communities, and IoT-based traffic management using 5G’s low latency. Highlighted cybersecurity and infrastructure challenges and provided solutions for balancing innovation with safety and inclusivity, showing how next-generation networks can support smarter, more connected cities.</p>
     <a href="https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view">Research Paper</a>
   </li>
