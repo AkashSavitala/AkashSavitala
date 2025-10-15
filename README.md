@@ -14,13 +14,13 @@
 
   <li>
     <b>Eat Together</b>
-    <p><b>Summary: </b> Mobile React Native app (built with Expo) that connects users through interactive prompts, supported by a real-time Firebase backend for user data and session management.</p>
+    <p><b>Summary: </b>Mobile icebreaker app for group events with shared sessions, real-time prompts and voting, and reliable state sync — implemented with an event-driven architecture in React Native (Expo) and a Firebase backend (user authentication, normalized collections, low-latency updates).</p>
     <a href="https://github.com/eat-together-team/eat-together.git">Github Repository</a>
   </li>
 
   <li>
     <b>Fire Sense</b>
-    <p><b>Summary: </b>Python-based autonomous drone system simulated in Gazebo, using TensorFlow and OpenCV for computer vision and neural-network-based fire detection.</p>
+    <p><b>Summary: </b>Autonomous drone simulation system for wildfire detection and navigation, integrating TensorFlow neural networks for image-based fire classification and Particle Swarm Optimization in Gazebo for path planning and fire localization.</p>
     <a href="https://github.com/Team-FireSense/FireSense.git">Github Repository</a>
   </li>
   
