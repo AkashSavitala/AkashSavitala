@@ -26,7 +26,7 @@
   
   <li>
     <b>LoLa-LoLa (Low Ability and Low Availability)</b>
-    <p><b>Summary: </b>Project LoLa-LoLa addresses NASA’s Wildfire Management Challenge to provide Hazard warnings at the ‘Edge’ where communications networks are sparse or non-existent by sending wildfire notifications/voicemails to users using NASA FIRMS data.</p>
+    <p><b>Summary: </b>Geospatial wildfire alert and mapping platform that plots nearby wildfire hotspots detected by NASA’s FIRMS satellites relative to a user’s location and triggers spoken alerts/voicemails in low-connectivity areas — built with QGIS (data prep), GeoJSON/Turf.js (distance/bearing & geofencing), and Say.js (voice notifications).</p>
     <a href="https://github.com/vigneshSrinivasan2005/LoLa-LoLa.git">Github Repository</a>
   </li>
 </ul>
