@@ -15,6 +15,7 @@
   <li>
     <b>Eat Together</b>
     <p><b>Summary: </b> Mobile React Native app (built with Expo) that connects users through interactive prompts, supported by a real-time Firebase backend for user data and session management.</p>
+    <a href="https://github.com/eat-together-team/eat-together.git">Github Repository</a>
   </li>
 
   <li>
@@ -45,8 +46,8 @@
   </li>
   
   <li>
-    <b>Research on 5G Technology - City of Seattle</b>
-    <p><b>Summary: </b>Conducted research that demonstrates the advantages and disadvantages of 5G, its improvement/evolution from its predecessors, and its practical and sustainable applications in urbanized cities like Seattle.</p>
+    <b>5G Research Paper – City of Seattle Implementation Plan</b>
+    <p><b>Summary: </b>Analyzed the technical, social, and policy impacts of 5G deployment with a focus on improving public safety, digital equity, and healthcare in urban areas. Proposed AT&T FirstNet integration for emergency services, telehealth expansion for underserved communities, and IoT-based traffic management using 5G’s low latency. Highlighted cybersecurity and infrastructure challenges and provided solutions for balancing innovation with safety and inclusivity, showing how next-generation networks can support smarter, more connected cities.</p>
     <a href="https://drive.google.com/file/d/11atKLoEjaGEygNSkSFKJsQjbbkrTUete/view">Research Paper</a>
   </li>
 </ul>
