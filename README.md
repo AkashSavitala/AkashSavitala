@@ -7,19 +7,19 @@
 <h2>Projects:</h2>
 <ul>
   <li>
-    <b>Quick Find</b>
+    <b>Quick Find (AI-Driven E-Commerce Platform)</b>
     <p><b>Summary: </b>Full-stack MERN web app that integrates OpenAI and the eBay API to power AI-driven shopping recommendations, with a serverless Firebase backend for authentication and data storage.</p>
     <a href="https://github.com/AkashSavitala/QuickFind.git">Github Repository</a>
   </li>
 
   <li>
-    <b>Eat Together</b>
+    <b>Eat Together (Real-Time Mobile Icebreaker App)</b>
     <p><b>Summary: </b>Mobile icebreaker app for group events with shared sessions, real-time prompts and voting, and reliable state sync — implemented with an event-driven architecture in React Native (Expo) and a Firebase backend (user authentication, normalized collections, low-latency updates).</p>
     <a href="https://github.com/eat-together-team/eat-together.git">Github Repository</a>
   </li>
 
   <li>
-    <b>Fire Sense</b>
+    <b>Fire Sense (Autonomous Wildfire Detection System)</b>
     <p><b>Summary: </b>Autonomous drone simulation system for wildfire detection and navigation, integrating TensorFlow neural networks for image-based fire classification and Particle Swarm Optimization in Gazebo for path planning and fire localization.</p>
     <a href="https://github.com/Team-FireSense/FireSense.git">Github Repository</a>
   </li>
